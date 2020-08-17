@@ -1,0 +1,37 @@
+[
+  {
+    "FirstName": "Sajal",
+    "LastName": "Limbu",
+    "Address": "Biratnagar",
+    "Age": 24,
+    "Email": "johndoe@gmail.com"
+  },
+  {
+    "FirstName": "John",
+    "LastName": "Doe",
+    "Address": "Graveyard",
+    "Age": 99,
+    "Email": "johndoe@gmail.com"
+  },
+  {
+    "FirstName": "Lorem",
+    "LastName": "Ipsum",
+    "Address": "Korea",
+    "Age": 12,
+    "Email": "loremipsum@gmail.com"
+  },
+  {
+    "FirstName": "Lorem",
+    "LastName": "Ipsum",
+    "Address": "Japan",
+    "Age": 12,
+    "Email": "loremipsum@gmail.com"
+  },
+  {
+    "FirstName": "Lorem",
+    "LastName": "Ipsum",
+    "Address": "China",
+    "Age": 12,
+    "Email": "loremipsum@gmail.com"
+  }
+]
